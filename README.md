@@ -50,7 +50,7 @@ The system expects the following directory structure:
 ## How It Works
 
 ### 1. Fast Pattern-Based Categorization
-The system first applies rule-based categorization using regex patterns and linguistic rules to quickly classify keywords. This step handles around 70-80% of all keywords efficiently.
+The system first applies rule-based categorization using regex patterns and linguistic rules to quickly classify keywords. This step handles around 60% of all keywords efficiently.
 
 ### 2. Machine Learning Classification
 For keywords that couldn't be categorized in the first step, the system trains machine learning models (Random Forest and Naive Bayes) using the already categorized keywords as training data.
