@@ -1,6 +1,6 @@
 # Text Keyword Categorization System
 
-#Author
+Author
 Tejaswi Suresh: https://www.linkedin.com/in/pseo/
 
 ## Overview
