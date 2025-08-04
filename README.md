@@ -1,5 +1,8 @@
 # Text Keyword Categorization System
 
+#Author
+Tejaswi Suresh: https://www.linkedin.com/in/pseo/
+
 ## Overview
 This repository contains a sophisticated text processing and categorization system designed for efficiently categorizing large volumes of keywords based on language, content type, and semantic meaning. The solution combines rule-based pattern matching with machine learning classification to achieve high accuracy across diverse categories.
 
